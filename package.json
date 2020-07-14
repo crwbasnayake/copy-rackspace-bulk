@@ -1,0 +1,24 @@
+{
+  "name": "corsupdater",
+  "version": "1.0.0",
+  "description": "This utility will be used to update the CORS headers of the images uploded bu PCR reps.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charitha Basnayake",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "cli-progress": "^3.8.2",
+    "errs": "^0.3.2",
+    "eventemitter2": "^6.4.3",
+    "express": "^4.17.1",
+    "filed-mimefix": "^0.1.3",
+    "ip": "^1.1.5",
+    "lodash": "^4.17.15",
+    "request": "^2.88.2",
+    "simple-node-logger": "^18.12.24",
+    "url-join": "^4.0.1"
+  }
+}
