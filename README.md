@@ -1,4 +1,4 @@
-# Rackspace Cloud File Copy Script
+# Rackspace Cloud Files Copy Script
 
 This node.js project is created to copy large set of files from one of your cloud container to another cloud container
 
