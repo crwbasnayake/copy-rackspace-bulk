@@ -9,7 +9,7 @@
   "author": "Charitha Basnayake",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "cli-progress": "^3.8.2",
     "errs": "^0.3.2",
     "eventemitter2": "^6.4.3",
